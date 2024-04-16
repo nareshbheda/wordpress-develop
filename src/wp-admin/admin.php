@@ -227,7 +227,7 @@ if ( isset( $plugin_page ) ) {
 		 * 2. A separator of '_page_'.
 		 * 3. The plugin basename minus the file extension.
 		 *
-		 * Together, the three parts form the `$page_hook`. Citing the example above,
+		 * Together, the three parts from the `$page_hook`. Citing the example above,
 		 * the hook name used would be 'load-settings_page_pluginbasename'.
 		 *
 		 * @see get_plugin_page_hook()
@@ -249,7 +249,7 @@ if ( isset( $plugin_page ) ) {
 		 * 2. A separator of '_page_'.
 		 * 3. The plugin basename minus the file extension.
 		 *
-		 * Together, the three parts form the `$page_hook`. Citing the example above,
+		 * Together, the three parts from the `$page_hook`. Citing the example above,
 		 * the hook name used would be 'settings_page_pluginbasename'.
 		 *
 		 * @see get_plugin_page_hook()
